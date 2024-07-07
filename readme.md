@@ -1,0 +1,1 @@
+Uma simples página de cadastro, utilizando HTML e CSS.
